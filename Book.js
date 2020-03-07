@@ -45,4 +45,4 @@ let book3 = new Book(
   350
 );
 
-export const books = ["star wars", "james", "action", 100, 20, true];
+export const books = [book1, book2, book3];
